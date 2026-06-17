@@ -2,16 +2,18 @@
 
 A curated collection of E-Commerce & Customer Analytics Projects demonstrating skills in data cleaning, modeling, visualization, and business insight generation.
 
-Each project showcases end-to-end analysis of online retail and customer behavior; covering channel performance, customer loyalty, product and category trends, and discount effectiveness to surface insights that drive better commercial and retention decisions.
+Every transaction leaves a trail; channel, campaign, customer, return. The hard part isn't collecting that trail, it's reading it well enough to know who your most valuable customer is and why they keep coming back.
+
+This portfolio is built around that question. Each project here treats revenue, retention, and customer behavior as connected parts of the same story, not separate metrics. Expect dashboards that don't just report what sold, but explain who bought it and what that means for the next campaign.
 
 ---
 
 ## 💼 About This Portfolio
-This portfolio serves as a showcase of practical e-commerce and customer analytics projects, reflecting my ability to:
+This portfolio demonstrates my ability to:
 
-- Structure raw transaction and customer data into meaningful business insights
-- Develop interactive dashboards and reports that track revenue, loyalty, and channel performance
-- Support decision-making through data-driven storytelling
+- Connect revenue, retention, and customer behavior as one continuous story rather than separate metrics
+- Build dashboards that explain not just what sold, but who bought it and why that matters
+- Turn loyalty and engagement patterns into specific campaign and retention recommendations
 
 ---
 
