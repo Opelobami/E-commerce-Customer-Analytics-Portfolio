@@ -22,7 +22,7 @@ This portfolio demonstrates my ability to:
 ### E-commerce Analytics
 **A Power BI analytics solution that transforms raw e-commerce transaction data into actionable intelligence on loyal customers, channel performance, and revenue growth**
 
-- **Tools:** Power Query, PowerBI, ZommCharts Drilldown Visuals
+- **Tools:** Power Query, PowerBI, ZoomCharts Drilldown Visuals
 - **Documentation** [View Pbixfile, dataset, brief and pdf image →](https://drive.google.com/drive/folders/18R6xIbjaIPja1TdwujAU9bHbUeLH2tp1?usp=drive_link)
 - **Dashboard Visualization** [View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDZjZTQ2NTEtNzA0NS00ZmFmLTkxMmItYjExYWI1ZGVhYjFhIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 - **Repository:** [View Project →](https://github.com/Opelobami/E-commerce-Analytics-Dashboard)
